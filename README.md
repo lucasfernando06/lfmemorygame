@@ -1,5 +1,6 @@
 # ~ Memory Game - React JS ~
 LF Memory Game - Projeto simples de um jogo da memória
+[Acesse a DEMO](https://lfmemorygame.firebaseapp.com/)
 ##### Bônus:
 - Efeitos sonoros (click, acerto e vitória)
 - Placar
